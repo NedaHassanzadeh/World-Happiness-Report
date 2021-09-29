@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expanatory Data Analysis on World Happiness Report 2021
 
 ## Introduction
@@ -968,3 +969,6 @@ The observations are as below:
 ```python
 
 ```
+=======
+WHR
+>>>>>>> e0e25812bedee80f527d3e913daaa6e134eeadf7
